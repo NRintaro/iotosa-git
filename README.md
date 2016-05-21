@@ -1,6 +1,8 @@
 # iotosa-git
-//first-branchの内容
+<!--- first-branchの内容 --->
 終わったら松本さんの家で飲む
 
-//test-branchの内容
+<!--- test-branchの内容 --->
 hogehoge
+
+だってpull requestできたもん
